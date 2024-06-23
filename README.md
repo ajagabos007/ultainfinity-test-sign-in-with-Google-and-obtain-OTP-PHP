@@ -1,6 +1,3 @@
-Sure, here's the entire content in Markdown format for you to copy and paste:
-
-```markdown
 # Halinfinity TEST 1: Sign in with Google (PHP)
 
 This project demonstrates how to implement Google Sign-In using PHP. Follow the steps below to set up the project and get it running.
@@ -87,11 +84,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For further information or issues, please contact [your-email@example.com].
+For further information or issues, please contact [ajagabos007@gmail.com].
 
 ---
 
 Happy coding!
-```
-
-Copy and paste the above content into your `README.md` file. This includes all the instructions and links in Markdown format.
