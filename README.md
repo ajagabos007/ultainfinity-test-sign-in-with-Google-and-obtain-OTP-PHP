@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For further information or issues, please contact [ajagabos007@gmail.com](Philip James Ajagabos).
+For further information or issues, please contact [Philip James Ajagabos](ajagabos007@gmail.com).
 
 ---
 
