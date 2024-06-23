@@ -1,4 +1,4 @@
-# Halinfinity TEST 1: Sign in with Google (PHP)
+# Ultainfinity TEST 1: Sign in with Google (PHP)
 
 This project demonstrates how to implement Google Sign-In using PHP. Follow the steps below to set up the project and get it running.
 
@@ -17,8 +17,8 @@ This project demonstrates how to implement Google Sign-In using PHP. Follow the 
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/halinfinity-signin-google-php.git
-   cd halinfinity-signin-google-php
+   git clone https://github.com/ajagabos007/ultainfinity-test-sign-in-with-Google-and-obtain-OTP-PHP.git
+   cd ultainfinity-test-sign-in-with-Google-and-obtain-OTP-PHP
    ```
 
 2. **Install Dependencies**
